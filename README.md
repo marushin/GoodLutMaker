@@ -8,7 +8,7 @@
 
 ## 📥 다운로드 (Download)
 
-최신 버전의 인스톨러(.exe)는 **[GitHub Releases](https://github.com/marushin/good-lut-maker/releases)** 페이지에서 다운로드할 수 있습니다.
+최신 버전의 인스톨러(.exe)는 **[GitHub Releases](https://github.com/marushin//GoodLutMaker/releases)** 페이지에서 다운로드할 수 있습니다.
 
 ## ✨ 주요 기능 (Key Features)
 
